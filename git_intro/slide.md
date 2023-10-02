@@ -110,6 +110,8 @@ git diff
 
 # Log of all the commits
 
+![bg right](./imgs/git_log.jpg)
+
 ```sh
 git log
 git log --graph
